@@ -1,0 +1,6 @@
+{
+  "name": "Noor — Quran Arabic Learning",
+  "description": "Interactive Quran Arabic learning application for Surah Aal-e-Imran with Indo-Pak script, Urdu translations, word-by-word grammatical analysis, roots, audio recitation, quizzes, and offline progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

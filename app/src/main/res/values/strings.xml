@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Noor</string>
+    <string name="app_full_title">Noor — Quran Arabic Learning</string>
+    <string name="surah_title_arabic">سُورَةُ آلِ عِمْرَان</string>
+    <string name="surah_title_urdu">سورۃ آل عمران</string>
+    <string name="surah_info_subtitle">مدنی سورۃ • آیات ۱ تا ۹۲ (پارہ ۳)</string>
+    <string name="greeting_urdu">السلام علیکم</string>
+    <string name="subtitle_urdu">قرآن کو لفظ بہ لفظ سیکھیں</string>
+</resources>
